@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(164, 213, 255);
+    
+}
+
+#inpt{
+    text-align: right;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+} 
+
+.tabela{
+    background-color: rgb(221, 231, 248);
+    padding: 5px;
+    height: 100px;
+    max-width: 100px;  
+    margin: 0;
+}
+
+button {
+    width: 35px;
+    
+}
+
+.tb {
+  align-items: center;
+  margin-top: 300px;
+  margin-left: 40%;
+}
+
